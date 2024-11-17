@@ -4,7 +4,7 @@ import ServiceCard from "../../Components/Services/ServiceCard";
 const Alltreatment = () => {
     const allservices = useLoaderData();
     const Services = allservices.services
-    console.log(Services);
+    // console.log(Services);
     
     
     return (

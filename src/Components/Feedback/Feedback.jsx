@@ -1,12 +1,15 @@
 import FeedCard from "./FeedCard";
 
-const Feedback = ({feedData}) => {
+const Feedback = ({ feedData }) => {
     return (
-        <div className="grid grid-cols-3 gap-2">
-            {
-                feedData.map(feeds => <FeedCard key={feeds.id} feeds={feeds}></FeedCard>)
-            }
-        </div>
+        <>
+         <h1 className="text-center font-bold my-3 text-xl">Happy Clients</h1>
+            <div className="grid grid-cols-3 gap-2">
+                {
+                    feedData.map(feeds => <FeedCard key={feeds.id} feeds={feeds}></FeedCard>)
+                }
+            </div>
+        </>
     );
 };
 
