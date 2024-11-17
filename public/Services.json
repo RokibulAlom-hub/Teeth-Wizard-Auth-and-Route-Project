@@ -1,0 +1,61 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "name": "General Dentistry",
+        "description": "Comprehensive dental care for all age groups, including routine check-ups and cleaning.",
+        "image": "/images/general-dentistry.jpg",
+        "priceRange": "$50 - $200"
+      },
+      {
+        "id": 2,
+        "name": "Cosmetic Dentistry",
+        "description": "Improve the appearance of your teeth with whitening, veneers, and bonding.",
+        "image": "/images/cosmetic-dentistry.jpg",
+        "priceRange": "$100 - $500"
+      },
+      {
+        "id": 3,
+        "name": "Orthodontics",
+        "description": "Straighten teeth and correct bite issues with braces or aligners.",
+        "image": "/images/orthodontics.jpg",
+        "priceRange": "$500 - $3000"
+      },
+      {
+        "id": 4,
+        "name": "Pediatric Dentistry",
+        "description": "Specialized dental care for children to ensure healthy growth and development.",
+        "image": "/images/pediatric-dentistry.jpg",
+        "priceRange": "$30 - $150"
+      },
+      {
+        "id": 5,
+        "name": "Periodontics",
+        "description": "Gum disease prevention and treatment, including scaling and root planing.",
+        "image": "/images/periodontics.jpg",
+        "priceRange": "$100 - $800"
+      },
+      {
+        "id": 6,
+        "name": "Oral Surgery",
+        "description": "Surgical procedures such as wisdom teeth removal and dental implants.",
+        "image": "/images/oral-surgery.jpg",
+        "priceRange": "$200 - $4000"
+      },
+      {
+        "id": 7,
+        "name": "Endodontics",
+        "description": "Root canal treatments to save damaged or infected teeth.",
+        "image": "/images/endodontics.jpg",
+        "priceRange": "$150 - $1000"
+      },
+      {
+        "id": 8,
+        "name": "Prosthodontics",
+        "description": "Restorative services like dentures, crowns, and bridges.",
+        "image": "/images/prosthodontics.jpg",
+        "priceRange": "$300 - $2000"
+      }
+    ]
+  }
+  
