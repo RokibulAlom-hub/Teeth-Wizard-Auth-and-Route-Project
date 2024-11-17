@@ -4,56 +4,56 @@
         "id": 1,
         "name": "General Dentistry",
         "description": "Comprehensive dental care for all age groups, including routine check-ups and cleaning.",
-        "image": "/images/general-dentistry.jpg",
+        "image": "https://i.ibb.co.com/wM82Sjq/istockphoto-1326436029-2048x2048.jpg",
         "priceRange": "$50 - $200"
       },
       {
         "id": 2,
         "name": "Cosmetic Dentistry",
         "description": "Improve the appearance of your teeth with whitening, veneers, and bonding.",
-        "image": "/images/cosmetic-dentistry.jpg",
+        "image": "https://i.ibb.co.com/2FMmWQV/istockphoto-1249779238-2048x2048.jpg",
         "priceRange": "$100 - $500"
       },
       {
         "id": 3,
         "name": "Orthodontics",
         "description": "Straighten teeth and correct bite issues with braces or aligners.",
-        "image": "/images/orthodontics.jpg",
+        "image": "https://i.ibb.co.com/543M34W/istockphoto-1207033271-2048x2048.jpg",
         "priceRange": "$500 - $3000"
       },
       {
         "id": 4,
         "name": "Pediatric Dentistry",
         "description": "Specialized dental care for children to ensure healthy growth and development.",
-        "image": "/images/pediatric-dentistry.jpg",
+        "image": "https://i.ibb.co.com/9GFqkZC/istockphoto-1207033220-2048x2048.jpg",
         "priceRange": "$30 - $150"
       },
       {
         "id": 5,
         "name": "Periodontics",
         "description": "Gum disease prevention and treatment, including scaling and root planing.",
-        "image": "/images/periodontics.jpg",
+        "image": "https://i.ibb.co.com/543M34W/istockphoto-1207033271-2048x2048.jpg",
         "priceRange": "$100 - $800"
       },
       {
         "id": 6,
         "name": "Oral Surgery",
         "description": "Surgical procedures such as wisdom teeth removal and dental implants.",
-        "image": "/images/oral-surgery.jpg",
+        "image": "https://i.ibb.co.com/9GFqkZC/istockphoto-1207033220-2048x2048.jpg",
         "priceRange": "$200 - $4000"
       },
       {
         "id": 7,
         "name": "Endodontics",
         "description": "Root canal treatments to save damaged or infected teeth.",
-        "image": "/images/endodontics.jpg",
+        "image": "https://i.ibb.co.com/2FMmWQV/istockphoto-1249779238-2048x2048.jpg",
         "priceRange": "$150 - $1000"
       },
       {
         "id": 8,
         "name": "Prosthodontics",
         "description": "Restorative services like dentures, crowns, and bridges.",
-        "image": "/images/prosthodontics.jpg",
+        "image": "https://i.ibb.co.com/wM82Sjq/istockphoto-1326436029-2048x2048.jpg",
         "priceRange": "$300 - $2000"
       }
     ]

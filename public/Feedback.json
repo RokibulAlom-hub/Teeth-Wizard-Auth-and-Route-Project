@@ -1,41 +1,40 @@
 {
-    "reviews": [
-      {
-        "id": 1,
-        "name": "Emily Johnson",
-        "image": "/images/emily-johnson.jpg",
-        "review": "The team at Teeth-Wizard is amazing! They made me feel comfortable and provided exceptional service. My teeth look fantastic now!"
-      },
-      {
-        "id": 2,
-        "name": "Michael Smith",
-        "image": "/images/michael-smith.jpg",
-        "review": "I had a root canal done, and it was surprisingly painless. The staff is friendly, and the clinic is very clean. Highly recommended!"
-      },
-      {
-        "id": 3,
-        "name": "Sophia Brown",
-        "image": "/images/sophia-brown.jpg",
-        "review": "The orthodontic treatment I received was excellent. I love my new smile, and the process was smooth and stress-free!"
-      },
-      {
-        "id": 4,
-        "name": "Liam Davis",
-        "image": "/images/liam-davis.jpg",
-        "review": "Great experience! The pediatric dentistry team was wonderful with my kids. They now love visiting the dentist!"
-      },
-      {
-        "id": 5,
-        "name": "Olivia Wilson",
-        "image": "/images/olivia-wilson.jpg",
-        "review": "I’m so happy with the dental implants I got here. They feel and look just like my natural teeth. Thank you for the life-changing work!"
-      },
-      {
-        "id": 6,
-        "name": "James Martinez",
-        "image": "/images/james-martinez.jpg",
-        "review": "From scheduling to treatment, everything was perfect. The cosmetic dentistry team did a phenomenal job on my veneers."
-      }
-    ]
-  }
-  
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "image": "https://i.ibb.co.com/ggG4WjM/1000-F-88538986-5-Bi4e-J667pocs-O3-BIlb-N4f-HKz8y-UFSu-A.jpg",
+      "review": "The team at Teeth-Wizard is amazing! They made me feel comfortable and provided exceptional service. My teeth look fantastic now!"
+    },
+    {
+      "id": 2,
+      "name": "Michael Smith",
+      "image": "https://i.ibb.co.com/ggG4WjM/1000-F-88538986-5-Bi4e-J667pocs-O3-BIlb-N4f-HKz8y-UFSu-A.jpg",
+      "review": "I had a root canal done, and it was surprisingly painless. The staff is friendly, and the clinic is very clean. Highly recommended!"
+    },
+    {
+      "id": 3,
+      "name": "Sophia Brown",
+      "image":"https://i.ibb.co.com/ggG4WjM/1000-F-88538986-5-Bi4e-J667pocs-O3-BIlb-N4f-HKz8y-UFSu-A.jpg",
+      "review": "The orthodontic treatment I received was excellent. I love my new smile, and the process was smooth and stress-free!"
+    },
+    {
+      "id": 4,
+      "name": "Liam Davis",
+      "image":"https://i.ibb.co.com/ggG4WjM/1000-F-88538986-5-Bi4e-J667pocs-O3-BIlb-N4f-HKz8y-UFSu-A.jpg",
+      "review": "Great experience! The pediatric dentistry team was wonderful with my kids. They now love visiting the dentist!"
+    },
+    {
+      "id": 5,
+      "name": "Olivia Wilson",
+      "image": "https://i.ibb.co.com/ggG4WjM/1000-F-88538986-5-Bi4e-J667pocs-O3-BIlb-N4f-HKz8y-UFSu-A.jpg",
+      "review": "I’m so happy with the dental implants I got here. They feel and look just like my natural teeth. Thank you for the life-changing work!"
+    },
+    {
+      "id": 6,
+      "name": "James Martinez",
+      "image": "https://i.ibb.co.com/ggG4WjM/1000-F-88538986-5-Bi4e-J667pocs-O3-BIlb-N4f-HKz8y-UFSu-A.jpg",
+      "review": "From scheduling to treatment, everything was perfect. The cosmetic dentistry team did a phenomenal job on my veneers."
+    }
+  ]
+}
